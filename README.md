@@ -52,7 +52,7 @@ python app.py
 
 ## Contributing
 
-Contributions to SecureShare are welcome! Please follow these steps:
+Contributions to Polaris are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature-branch-name`
