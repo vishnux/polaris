@@ -4,12 +4,12 @@
   Create stunning 4K fashion product photos using Stable Diffusion, achieving photorealistic detail and clarity.
 </p>
 
-https://github.com/user-attachments/assets/6fd8eeab-ad77-4c80-bfc9-e7741088e96f
+https://github.com/user-attachments/assets/7fb89d77-4713-4a4d-84ea-87ae775fbdfb
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/7e144eb8-9d21-416b-b808-a9fa72c43615" alt="Image 1"></td>
-<td><img src="https://github.com/user-attachments/assets/5062ba91-fe3d-408f-8dd6-54fb8091c7c5" alt="Image 2"></td>
+<td><img src="assets/blue_dress_image.png" alt="Image 1"></td>
+<td><img src="assets/black_pantsuit_image.png" alt="Image 2"></td>
 </tr>
 </table>
 
