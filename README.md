@@ -13,6 +13,10 @@ https://github.com/user-attachments/assets/7fb89d77-4713-4a4d-84ea-87ae775fbdfb
 </tr>
 </table>
 
+## Description
+
+Polaris creates stunning, high-quality fashion images, streamlining your e-commerce content creation. Leverage cutting-edge machine learning to generate diverse, on-brand visuals with minimal effort.
+
 ## Features
 
 * Generate 4K fashion product photos from text descriptions
