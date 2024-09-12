@@ -4,7 +4,7 @@
   Create stunning 4K fashion product photos using Stable Diffusion, achieving photorealistic detail and clarity.
 </p>
 
-https://github.com/user-attachments/assets/7fb89d77-4713-4a4d-84ea-87ae775fbdfb
+![Polaris_Demo](/assets/Polaris_Demo.gif)
 
 <table>
 <tr>
