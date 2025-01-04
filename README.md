@@ -13,6 +13,8 @@ https://github.com/user-attachments/assets/7a970dec-96d8-49b0-94fc-38264c41660e
 </tr>
 </table>
 
+<img width="1200" alt="Screenshot 2025-01-04 at 3 53 45 PM" src="https://github.com/user-attachments/assets/86e4e075-fc4b-47a1-803a-c7d826e8e1d7" />
+
 ## Description
 
 Polaris creates stunning, high-quality fashion images, streamlining your e-commerce content creation. Leverage cutting-edge machine learning to generate diverse, on-brand visuals with minimal effort.
